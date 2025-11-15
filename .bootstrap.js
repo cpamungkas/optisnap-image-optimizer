@@ -82,7 +82,8 @@ function runSetupCommands() {
     "bun add jszip@^3.10.1",
     "bun add react-dropzone@^14.2.3",
     "bun add file-saver@^2.0.5",
-    "bun add -D @types/file-saver@^2.0.7"
+    "bun add -D @types/file-saver@^2.0.7",
+    "bun install browser-image-compression jszip file-saver react-dropzone"
 ];
     
     if (commands.length === 0) {
