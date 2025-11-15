@@ -1,6 +1,6 @@
 # OptiSnap: Client-Side Image Optimizer
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cpamungkas/optisnap-image-optimizer)
 
 OptiSnap is a visually stunning, high-performance web application for compressing and optimizing images directly in the browser. It leverages client-side processing to ensure user privacy, with no images ever being uploaded to a server. Users can drag and drop multiple JPG, PNG, and WebP files, select from predefined compression levels (Low, Medium, High), and instantly see a before-and-after comparison. The application provides detailed statistics on size reduction for each image. Optimized images can be downloaded individually or bundled together in a single ZIP archive. The user interface is crafted with a minimalist aesthetic, focusing on clarity, simplicity, and an exceptional user experience across all devices.
 
@@ -82,7 +82,7 @@ This command will build the application and deploy it using the Wrangler CLI.
 
 Alternatively, you can deploy your own version of this project with a single click:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cpamungkas/optisnap-image-optimizer)
 
 ## 🤝 Contributing
 
